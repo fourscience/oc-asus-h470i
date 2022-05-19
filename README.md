@@ -14,7 +14,6 @@ There is 2 EFI folders for sample, the EFI inside the install folder was used to
 - ProperTree (To do the snapshots)
 - SSDT-s precompiled
 - Hackintool (To verify current OC version between the swaps)
-- 
 
 # Hardware
 
